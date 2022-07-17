@@ -14,3 +14,8 @@ h1 {
 .hidden {
   display: none;
 }
+img {
+  width: 1280px;
+  height: 1028px;
+  background-size: 100% 100%;
+}
