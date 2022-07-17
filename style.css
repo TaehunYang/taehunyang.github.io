@@ -1,0 +1,16 @@
+body {
+  background-color: "";
+}
+
+h1 {
+  color: cornflowerblue;
+}
+
+.clicked {
+  color: tomato;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.hidden {
+  display: none;
+}
